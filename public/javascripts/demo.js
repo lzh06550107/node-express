@@ -2,4 +2,4 @@ var demo = '掉毛'
 
 var demo1 = '掉毛1'
 
-var test = '作用'
+var demo2 = '掉毛2'

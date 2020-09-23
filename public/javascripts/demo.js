@@ -1,7 +1,3 @@
-var demo = '掉毛1'
+var demo = '掉毛'
 
-console.log(demo)
-
-console.log('修改')
-
-console.log('再次修改')
+var demo1 = '掉毛1'
